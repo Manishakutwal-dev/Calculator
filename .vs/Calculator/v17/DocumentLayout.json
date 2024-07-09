@@ -1,0 +1,824 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manisha\\Documents\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7F2B46-6BFB-45AA-8DA3-8FCF26B40489}|Calculator.Interface\\Calculator.Interface.csproj|c:\\users\\manisha\\documents\\calculator\\calculator.interface\\services\\implementation\\calculatorhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7F2B46-6BFB-45AA-8DA3-8FCF26B40489}|Calculator.Interface\\Calculator.Interface.csproj|solutionrelative:calculator.interface\\services\\implementation\\calculatorhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7F2B46-6BFB-45AA-8DA3-8FCF26B40489}|Calculator.Interface\\Calculator.Interface.csproj|c:\\users\\manisha\\documents\\calculator\\calculator.interface\\services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7F2B46-6BFB-45AA-8DA3-8FCF26B40489}|Calculator.Interface\\Calculator.Interface.csproj|solutionrelative:calculator.interface\\services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|c:\\users\\manisha\\documents\\calculator\\calculator\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|solutionrelative:calculator\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|c:\\users\\manisha\\documents\\calculator\\calculator\\clientapp\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|solutionrelative:calculator\\clientapp\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|c:\\users\\manisha\\documents\\calculator\\calculator\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|solutionrelative:calculator\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4772EA19-E43E-4B5C-B85D-FFE47E410626}|Calculator.Main\\Calculator.Main.csproj|c:\\users\\manisha\\documents\\calculator\\calculator.main\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4772EA19-E43E-4B5C-B85D-FFE47E410626}|Calculator.Main\\Calculator.Main.csproj|solutionrelative:calculator.main\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|c:\\users\\manisha\\documents\\calculator\\calculator\\clientapp\\src\\app\\history\\history.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|solutionrelative:calculator\\clientapp\\src\\app\\history\\history.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|c:\\users\\manisha\\documents\\calculator\\calculator\\clientapp\\src\\app\\evaluate\\evaluate.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|solutionrelative:calculator\\clientapp\\src\\app\\evaluate\\evaluate.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|c:\\users\\manisha\\documents\\calculator\\calculator\\clientapp\\src\\app\\evaluate\\evaluate.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|solutionrelative:calculator\\clientapp\\src\\app\\evaluate\\evaluate.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\node_modules\\rxjs\\internal\\types.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Calculator\\ClientApp\\node_modules\\rxjs\\internal\\types.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\node_modules\\rxjs\\internal\\Observable.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Calculator\\ClientApp\\node_modules\\rxjs\\internal\\Observable.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7F2B46-6BFB-45AA-8DA3-8FCF26B40489}|Calculator.Interface\\Calculator.Interface.csproj|c:\\users\\manisha\\documents\\calculator\\calculator.interface\\services\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7F2B46-6BFB-45AA-8DA3-8FCF26B40489}|Calculator.Interface\\Calculator.Interface.csproj|solutionrelative:calculator.interface\\services\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7F2B46-6BFB-45AA-8DA3-8FCF26B40489}|Calculator.Interface\\Calculator.Interface.csproj|c:\\users\\manisha\\documents\\calculator\\calculator.interface\\services\\implementation\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7F2B46-6BFB-45AA-8DA3-8FCF26B40489}|Calculator.Interface\\Calculator.Interface.csproj|solutionrelative:calculator.interface\\services\\implementation\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7F2B46-6BFB-45AA-8DA3-8FCF26B40489}|Calculator.Interface\\Calculator.Interface.csproj|c:\\users\\manisha\\documents\\calculator\\calculator.interface\\services\\icalculatorhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7F2B46-6BFB-45AA-8DA3-8FCF26B40489}|Calculator.Interface\\Calculator.Interface.csproj|solutionrelative:calculator.interface\\services\\icalculatorhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7F2B46-6BFB-45AA-8DA3-8FCF26B40489}|Calculator.Interface\\Calculator.Interface.csproj|c:\\users\\manisha\\documents\\calculator\\calculator.interface\\exceptions\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7F2B46-6BFB-45AA-8DA3-8FCF26B40489}|Calculator.Interface\\Calculator.Interface.csproj|solutionrelative:calculator.interface\\exceptions\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|c:\\users\\manisha\\documents\\calculator\\calculator\\clientapp\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|solutionrelative:calculator\\clientapp\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|c:\\users\\manisha\\documents\\calculator\\calculator\\clientapp\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|solutionrelative:calculator\\clientapp\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|c:\\users\\manisha\\documents\\calculator\\calculator\\clientapp\\src\\app\\history\\history.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|solutionrelative:calculator\\clientapp\\src\\app\\history\\history.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|c:\\users\\manisha\\documents\\calculator\\calculator\\clientapp\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|solutionrelative:calculator\\clientapp\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|c:\\users\\manisha\\documents\\calculator\\calculator\\clientapp\\src\\app\\nav-menu\\nav-menu.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|solutionrelative:calculator\\clientapp\\src\\app\\nav-menu\\nav-menu.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|c:\\users\\manisha\\documents\\calculator\\calculator\\clientapp\\src\\app\\nav-menu\\nav-menu.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|solutionrelative:calculator\\clientapp\\src\\app\\nav-menu\\nav-menu.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|c:\\users\\manisha\\documents\\calculator\\calculator\\clientapp\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|solutionrelative:calculator\\clientapp\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|c:\\users\\manisha\\documents\\calculator\\calculator\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|solutionrelative:calculator\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|c:\\users\\manisha\\documents\\calculator\\calculator\\calculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7F2B46-6BFB-45AA-8DA3-8FCF26B40489}|Calculator.Interface\\Calculator.Interface.csproj|c:\\users\\manisha\\documents\\calculator\\calculator.interface\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7F2B46-6BFB-45AA-8DA3-8FCF26B40489}|Calculator.Interface\\Calculator.Interface.csproj|solutionrelative:calculator.interface\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ACCCD9-1A2D-4C07-9ACF-5A1122DDF8EA}|Calculator.DBContext\\Calculator.DBContext.csproj|c:\\users\\manisha\\documents\\calculator\\calculator.dbcontext\\calculator.dbcontext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4ACCCD9-1A2D-4C07-9ACF-5A1122DDF8EA}|Calculator.DBContext\\Calculator.DBContext.csproj|solutionrelative:calculator.dbcontext\\calculator.dbcontext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\node_modules\\@angular\\common\\common.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Calculator\\ClientApp\\node_modules\\@angular\\common\\common.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7F2B46-6BFB-45AA-8DA3-8FCF26B40489}|Calculator.Interface\\Calculator.Interface.csproj|c:\\users\\manisha\\documents\\calculator\\calculator.interface\\services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7F2B46-6BFB-45AA-8DA3-8FCF26B40489}|Calculator.Interface\\Calculator.Interface.csproj|solutionrelative:calculator.interface\\services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7F2B46-6BFB-45AA-8DA3-8FCF26B40489}|Calculator.Interface\\Calculator.Interface.csproj|c:\\users\\manisha\\documents\\calculator\\calculator.interface\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7F2B46-6BFB-45AA-8DA3-8FCF26B40489}|Calculator.Interface\\Calculator.Interface.csproj|solutionrelative:calculator.interface\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ACCCD9-1A2D-4C07-9ACF-5A1122DDF8EA}|Calculator.DBContext\\Calculator.DBContext.csproj|c:\\users\\manisha\\documents\\calculator\\calculator.dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4ACCCD9-1A2D-4C07-9ACF-5A1122DDF8EA}|Calculator.DBContext\\Calculator.DBContext.csproj|solutionrelative:calculator.dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ACCCD9-1A2D-4C07-9ACF-5A1122DDF8EA}|Calculator.DBContext\\Calculator.DBContext.csproj|c:\\users\\manisha\\documents\\calculator\\calculator.dbcontext\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4ACCCD9-1A2D-4C07-9ACF-5A1122DDF8EA}|Calculator.DBContext\\Calculator.DBContext.csproj|solutionrelative:calculator.dbcontext\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ACCCD9-1A2D-4C07-9ACF-5A1122DDF8EA}|Calculator.DBContext\\Calculator.DBContext.csproj|c:\\users\\manisha\\documents\\calculator\\calculator.dbcontext\\migrations\\20240628083537_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4ACCCD9-1A2D-4C07-9ACF-5A1122DDF8EA}|Calculator.DBContext\\Calculator.DBContext.csproj|solutionrelative:calculator.dbcontext\\migrations\\20240628083537_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|c:\\users\\manisha\\documents\\calculator\\calculator\\clientapp\\src\\app\\nav-menu\\nav-menu.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|solutionrelative:calculator\\clientapp\\src\\app\\nav-menu\\nav-menu.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|c:\\users\\manisha\\documents\\calculator\\calculator\\clientapp\\src\\app\\fetch-data\\fetch-data.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|solutionrelative:calculator\\clientapp\\src\\app\\fetch-data\\fetch-data.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Application.Tests\\Services\\CalculatorServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Calculator.Application.Tests\\Services\\CalculatorServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Domain\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|c:\\users\\manisha\\documents\\calculator\\calculator\\clientapp\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A68650F3-272B-4304-BBCF-382971834287}|Calculator\\Calculator.csproj|solutionrelative:calculator\\clientapp\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Domain\\Entities\\CalculatorHistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Infrastructure\\AppDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Infrastructure\\Migrations\\20240628083537_Initial.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Domain\\Entities\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\Implementation\\CalculatorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\Implementation\\CalculatorHistoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\Implementation\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\Implementation\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\ICalculatorHistoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\ICalculatorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Exceptions\\NotFoundException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Exceptions\\InvalidInputException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Infrastructure\\Migrations\\20240628083537_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Calculator\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Calculator\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAewBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:35:45.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Interface\\Services\\Implementation\\UserService.cs",
+              "RelativeDocumentMoniker": "Calculator.Interface\\Services\\Implementation\\UserService.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Interface\\Services\\Implementation\\UserService.cs",
+              "RelativeToolTip": "Calculator.Interface\\Services\\Implementation\\UserService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAewBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:32:30.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorHistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Interface\\Services\\Implementation\\CalculatorHistoryService.cs",
+              "RelativeDocumentMoniker": "Calculator.Interface\\Services\\Implementation\\CalculatorHistoryService.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Interface\\Services\\Implementation\\CalculatorHistoryService.cs",
+              "RelativeToolTip": "Calculator.Interface\\Services\\Implementation\\CalculatorHistoryService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAewBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:47:44.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "Calculator\\ClientApp\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\app.module.ts",
+              "RelativeToolTip": "Calculator\\ClientApp\\src\\app\\app.module.ts",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAB0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-09T08:38:58.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Main\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Calculator.Main\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Main\\Entities\\User.cs",
+              "RelativeToolTip": "Calculator.Main\\Entities\\User.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAApwAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:15:08.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "Calculator\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "Calculator\\Controllers\\CalculatorController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAApwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:36:07.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "history.component.html",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\history\\history.component.html",
+              "RelativeDocumentMoniker": "Calculator\\ClientApp\\src\\app\\history\\history.component.html",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\history\\history.component.html",
+              "RelativeToolTip": "Calculator\\ClientApp\\src\\app\\history\\history.component.html",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-09T08:30:14.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "evaluate.component.html",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\evaluate\\evaluate.component.html",
+              "RelativeDocumentMoniker": "Calculator\\ClientApp\\src\\app\\evaluate\\evaluate.component.html",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\evaluate\\evaluate.component.html",
+              "RelativeToolTip": "Calculator\\ClientApp\\src\\app\\evaluate\\evaluate.component.html",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABkAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-09T08:30:29.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "evaluate.component.ts",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\evaluate\\evaluate.component.ts",
+              "RelativeDocumentMoniker": "Calculator\\ClientApp\\src\\app\\evaluate\\evaluate.component.ts",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\evaluate\\evaluate.component.ts",
+              "RelativeToolTip": "Calculator\\ClientApp\\src\\app\\evaluate\\evaluate.component.ts",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-09T08:33:18.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "types.d.ts",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\node_modules\\rxjs\\internal\\types.d.ts",
+              "RelativeDocumentMoniker": "Calculator\\ClientApp\\node_modules\\rxjs\\internal\\types.d.ts",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\node_modules\\rxjs\\internal\\types.d.ts",
+              "RelativeToolTip": "Calculator\\ClientApp\\node_modules\\rxjs\\internal\\types.d.ts",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwDUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-09T12:24:49.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Observable.d.ts",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\node_modules\\rxjs\\internal\\Observable.d.ts",
+              "RelativeDocumentMoniker": "Calculator\\ClientApp\\node_modules\\rxjs\\internal\\Observable.d.ts",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\node_modules\\rxjs\\internal\\Observable.d.ts",
+              "RelativeToolTip": "Calculator\\ClientApp\\node_modules\\rxjs\\internal\\Observable.d.ts",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAuwFgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-09T12:25:44.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Interface\\Services\\ICalculatorService.cs",
+              "RelativeDocumentMoniker": "Calculator.Interface\\Services\\ICalculatorService.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Interface\\Services\\ICalculatorService.cs",
+              "RelativeToolTip": "Calculator.Interface\\Services\\ICalculatorService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAlwAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:24:11.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Interface\\Services\\Implementation\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "Calculator.Interface\\Services\\Implementation\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Interface\\Services\\Implementation\\CalculatorService.cs",
+              "RelativeToolTip": "Calculator.Interface\\Services\\Implementation\\CalculatorService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAhwAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:40:41.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICalculatorHistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Interface\\Services\\ICalculatorHistoryService.cs",
+              "RelativeDocumentMoniker": "Calculator.Interface\\Services\\ICalculatorHistoryService.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Interface\\Services\\ICalculatorHistoryService.cs",
+              "RelativeToolTip": "Calculator.Interface\\Services\\ICalculatorHistoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:39:46.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InvalidInputException.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Interface\\Exceptions\\InvalidInputException.cs",
+              "RelativeDocumentMoniker": "Calculator.Interface\\Exceptions\\InvalidInputException.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Interface\\Exceptions\\InvalidInputException.cs",
+              "RelativeToolTip": "Calculator.Interface\\Exceptions\\InvalidInputException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:13:28.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "Calculator\\ClientApp\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\app.component.ts",
+              "RelativeToolTip": "Calculator\\ClientApp\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-09T11:46:11.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "Calculator\\ClientApp\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\app.component.html",
+              "RelativeToolTip": "Calculator\\ClientApp\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-09T08:36:24.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "history.component.ts",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\history\\history.component.ts",
+              "RelativeDocumentMoniker": "Calculator\\ClientApp\\src\\app\\history\\history.component.ts",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\history\\history.component.ts",
+              "RelativeToolTip": "Calculator\\ClientApp\\src\\app\\history\\history.component.ts",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-09T11:49:40.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\login\\login.component.html",
+              "RelativeDocumentMoniker": "Calculator\\ClientApp\\src\\app\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\login\\login.component.html",
+              "RelativeToolTip": "Calculator\\ClientApp\\src\\app\\login\\login.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-09T08:28:16.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "nav-menu.component.html",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\nav-menu\\nav-menu.component.html",
+              "RelativeDocumentMoniker": "Calculator\\ClientApp\\src\\app\\nav-menu\\nav-menu.component.html",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\nav-menu\\nav-menu.component.html",
+              "RelativeToolTip": "Calculator\\ClientApp\\src\\app\\nav-menu\\nav-menu.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-09T08:30:59.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "nav-menu.component.css",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\nav-menu\\nav-menu.component.css",
+              "RelativeDocumentMoniker": "Calculator\\ClientApp\\src\\app\\nav-menu\\nav-menu.component.css",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\nav-menu\\nav-menu.component.css",
+              "RelativeToolTip": "Calculator\\ClientApp\\src\\app\\nav-menu\\nav-menu.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-09T08:31:14.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "home.component.html",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\home\\home.component.html",
+              "RelativeDocumentMoniker": "Calculator\\ClientApp\\src\\app\\home\\home.component.html",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\home\\home.component.html",
+              "RelativeToolTip": "Calculator\\ClientApp\\src\\app\\home\\home.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-09T08:28:12.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\Startup.cs",
+              "RelativeDocumentMoniker": "Calculator\\Startup.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\Startup.cs",
+              "RelativeToolTip": "Calculator\\Startup.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:34:13.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Calculator.csproj",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\Calculator.csproj",
+              "RelativeDocumentMoniker": "Calculator\\Calculator.csproj",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\Calculator.csproj",
+              "RelativeToolTip": "Calculator\\Calculator.csproj",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvy0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T07:34:01.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Interface\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Calculator.Interface\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Interface\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Calculator.Interface\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:13:53.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Calculator.DBContext.csproj",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.DBContext\\Calculator.DBContext.csproj",
+              "RelativeDocumentMoniker": "Calculator.DBContext\\Calculator.DBContext.csproj",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.DBContext\\Calculator.DBContext.csproj",
+              "RelativeToolTip": "Calculator.DBContext\\Calculator.DBContext.csproj",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAtwBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T07:47:22.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "common.d.ts",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\node_modules\\@angular\\common\\common.d.ts",
+              "RelativeDocumentMoniker": "Calculator\\ClientApp\\node_modules\\@angular\\common\\common.d.ts",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\node_modules\\@angular\\common\\common.d.ts",
+              "RelativeToolTip": "Calculator\\ClientApp\\node_modules\\@angular\\common\\common.d.ts",
+              "ViewState": "AQIAAIMEAAAAAAAAAAAjwIgEAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-09T10:14:46.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Interface\\Services\\Implementation\\AuthService.cs",
+              "RelativeDocumentMoniker": "Calculator.Interface\\Services\\Implementation\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Interface\\Services\\Implementation\\AuthService.cs",
+              "RelativeToolTip": "Calculator.Interface\\Services\\Implementation\\AuthService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAIBJwCsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:24:48.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.DBContext\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Calculator.DBContext\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.DBContext\\AppDBContext.cs",
+              "RelativeToolTip": "Calculator.DBContext\\AppDBContext.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAgwCAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:43:44.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Interface\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Calculator.Interface\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Interface\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Calculator.Interface\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAywAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:45:03.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.DBContext\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Calculator.DBContext\\Migrations\\AppDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.DBContext\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeToolTip": "Calculator.DBContext\\Migrations\\AppDBContextModelSnapshot.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAkwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:06:15.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240628083537_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.DBContext\\Migrations\\20240628083537_Initial.cs",
+              "RelativeDocumentMoniker": "Calculator.DBContext\\Migrations\\20240628083537_Initial.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.DBContext\\Migrations\\20240628083537_Initial.cs",
+              "RelativeToolTip": "Calculator.DBContext\\Migrations\\20240628083537_Initial.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwC4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:05:37.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "fetch-data.component.html",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\fetch-data\\fetch-data.component.html",
+              "RelativeDocumentMoniker": "Calculator\\ClientApp\\src\\app\\fetch-data\\fetch-data.component.html",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\fetch-data\\fetch-data.component.html",
+              "RelativeToolTip": "Calculator\\ClientApp\\src\\app\\fetch-data\\fetch-data.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-09T08:36:16.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "nav-menu.component.ts",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\nav-menu\\nav-menu.component.ts",
+              "RelativeDocumentMoniker": "Calculator\\ClientApp\\src\\app\\nav-menu\\nav-menu.component.ts",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\src\\app\\nav-menu\\nav-menu.component.ts",
+              "RelativeToolTip": "Calculator\\ClientApp\\src\\app\\nav-menu\\nav-menu.component.ts",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-09T08:31:06.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CalculatorServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Application.Tests\\Services\\CalculatorServiceTests.cs",
+              "RelativeDocumentMoniker": "Calculator.Application.Tests\\Services\\CalculatorServiceTests.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator.Application.Tests\\Services\\CalculatorServiceTests.cs",
+              "RelativeToolTip": "Calculator.Application.Tests\\Services\\CalculatorServiceTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:54:32.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\Calculator-master\\Calculator.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "..\\Calculator-master\\Calculator.Domain\\Entities\\User.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:39:59.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CalculatorHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Domain\\Entities\\CalculatorHistory.cs",
+              "RelativeDocumentMoniker": "..\\Calculator-master\\Calculator.Domain\\Entities\\CalculatorHistory.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Domain\\Entities\\CalculatorHistory.cs",
+              "RelativeToolTip": "..\\Calculator-master\\Calculator.Domain\\Entities\\CalculatorHistory.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:39:55.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Infrastructure\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "..\\Calculator-master\\Calculator.Infrastructure\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Infrastructure\\AppDBContext.cs",
+              "RelativeToolTip": "..\\Calculator-master\\Calculator.Infrastructure\\AppDBContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:34:39.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240628083537_Initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Infrastructure\\Migrations\\20240628083537_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Calculator-master\\Calculator.Infrastructure\\Migrations\\20240628083537_Initial.Designer.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Infrastructure\\Migrations\\20240628083537_Initial.Designer.cs",
+              "RelativeToolTip": "..\\Calculator-master\\Calculator.Infrastructure\\Migrations\\20240628083537_Initial.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:34:48.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\Calculator-master\\Calculator.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "..\\Calculator-master\\Calculator.Domain\\Entities\\BaseEntity.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:39:52.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\Implementation\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "..\\Calculator-master\\Calculator.Application\\Services\\Implementation\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\Implementation\\CalculatorService.cs",
+              "RelativeToolTip": "..\\Calculator-master\\Calculator.Application\\Services\\Implementation\\CalculatorService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:34:27.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CalculatorHistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\Implementation\\CalculatorHistoryService.cs",
+              "RelativeDocumentMoniker": "..\\Calculator-master\\Calculator.Application\\Services\\Implementation\\CalculatorHistoryService.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\Implementation\\CalculatorHistoryService.cs",
+              "RelativeToolTip": "..\\Calculator-master\\Calculator.Application\\Services\\Implementation\\CalculatorHistoryService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:34:19.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\Implementation\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\Calculator-master\\Calculator.Application\\Services\\Implementation\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\Implementation\\AuthService.cs",
+              "RelativeToolTip": "..\\Calculator-master\\Calculator.Application\\Services\\Implementation\\AuthService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:36:54.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\Implementation\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\Calculator-master\\Calculator.Application\\Services\\Implementation\\UserService.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\Implementation\\UserService.cs",
+              "RelativeToolTip": "..\\Calculator-master\\Calculator.Application\\Services\\Implementation\\UserService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:34:31.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\Calculator-master\\Calculator.Application\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\IUserService.cs",
+              "RelativeToolTip": "..\\Calculator-master\\Calculator.Application\\Services\\IUserService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:37:24.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ICalculatorHistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\ICalculatorHistoryService.cs",
+              "RelativeDocumentMoniker": "..\\Calculator-master\\Calculator.Application\\Services\\ICalculatorHistoryService.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\ICalculatorHistoryService.cs",
+              "RelativeToolTip": "..\\Calculator-master\\Calculator.Application\\Services\\ICalculatorHistoryService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:36:44.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\Calculator-master\\Calculator.Application\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\IAuthService.cs",
+              "RelativeToolTip": "..\\Calculator-master\\Calculator.Application\\Services\\IAuthService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:36:41.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ICalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\ICalculatorService.cs",
+              "RelativeDocumentMoniker": "..\\Calculator-master\\Calculator.Application\\Services\\ICalculatorService.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Services\\ICalculatorService.cs",
+              "RelativeToolTip": "..\\Calculator-master\\Calculator.Application\\Services\\ICalculatorService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:36:51.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\Calculator-master\\Calculator.Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "..\\Calculator-master\\Calculator.Application\\Exceptions\\NotFoundException.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:36:34.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "InvalidInputException.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Exceptions\\InvalidInputException.cs",
+              "RelativeDocumentMoniker": "..\\Calculator-master\\Calculator.Application\\Exceptions\\InvalidInputException.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Application\\Exceptions\\InvalidInputException.cs",
+              "RelativeToolTip": "..\\Calculator-master\\Calculator.Application\\Exceptions\\InvalidInputException.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:36:29.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\angular.json",
+              "RelativeDocumentMoniker": "Calculator\\ClientApp\\angular.json",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator\\Calculator\\ClientApp\\angular.json",
+              "RelativeToolTip": "Calculator\\ClientApp\\angular.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T07:35:38.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20240628083537_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Infrastructure\\Migrations\\20240628083537_Initial.cs",
+              "RelativeDocumentMoniker": "..\\Calculator-master\\Calculator.Infrastructure\\Migrations\\20240628083537_Initial.cs",
+              "ToolTip": "C:\\Users\\Manisha\\Documents\\Calculator-master\\Calculator.Infrastructure\\Migrations\\20240628083537_Initial.cs",
+              "RelativeToolTip": "..\\Calculator-master\\Calculator.Infrastructure\\Migrations\\20240628083537_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:34:44.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

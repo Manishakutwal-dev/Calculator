@@ -1,0 +1,43 @@
+﻿<style>
+    .evaluate-header {
+        color: #333; /* Dark color (adjust as needed) */
+        font-weight: bold;
+        letter-spacing: 0px; /* Optional: Adjust letter spacing */
+        font-family: 'Arial', sans-serif; /* Optional: Custom font family */
+    }
+
+    .custom-input {
+        font-size: 14px; /* Adjust font size */
+        padding: 0.375rem 0.75rem; /* Adjust padding */
+        height: calc(1.5em + 0.75rem + 2px); /* Adjust height */
+    }
+</style>
+
+<div class="container">
+
+    <div class="card shadow">
+        <div class="card-body">
+            <h4 class="text-center mb-4 evaluate-header">Evaluate</h4>
+
+            <div class="row justify-content-center">
+                <div class="col-md-4">
+                    <div class="form-group">
+                        <label for="input">Input</label>
+                        <input id="input" type="text" [(ngModel)]="input" class="form-control custom-input" (change)="onInputChange($event)" />
+                    </div>
+                    <div class="text-center mb-3">
+                        <button class="btn btn-primary" style="background-color: #4CAF50; border-color: #4CAF50;" (click)="result()">Result</button>
+                    </div>
+                    <div *ngIf="evaluated">
+                        <div *ngIf="evalResult.Succeeded" class="alert alert-success">
+                            <strong>Result:</strong> {{ evalResult.Result }}
+                        </div>
+                        <div *ngIf="!evalResult.Succeeded" class="alert alert-danger">
+                            <strong>Error:</strong> {{ evalResult.ErrorMessage }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

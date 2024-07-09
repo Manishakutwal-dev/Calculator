@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Calculator.Application.Tests
+build_property.ProjectDir = C:\Users\Manisha\Documents\Calculator-master\Calculator.Application.Tests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

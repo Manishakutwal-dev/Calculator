@@ -1,0 +1,47 @@
+﻿<style>
+    .evaluate-header {
+        color: #333; /* Dark color (adjust as needed) */
+        font-weight: bold;
+        letter-spacing: 0px; /* Optional: Adjust letter spacing */
+        font-family: 'Helvetica', sans-serif; /* Optional: Custom font family */
+    }
+</style><div class="container">
+
+    <div class="card shadow">
+        <div class="card-body">
+            <h2 class="text-center mt-4 mb-4 evaluate-header">Calculator History</h2>
+
+            <!-- Box for messages (Loading or Unauthorized) -->
+            <div class="alert alert-info text-center" *ngIf="!calcHistories && !unAuthorized">
+                <em>Loading / Unauthorized ...</em>
+            </div>
+
+            <div class="alert alert-danger text-center" *ngIf="unAuthorized">
+                <p>First Login the website</p>
+            </div>
+
+            <!-- Display history entries -->
+            <div *ngIf="calcHistories && !unAuthorized">
+                <div class="row mt-4">
+                    <div class="col-md-6 mx-auto">
+                        <div class="card mb-3" *ngFor="let calcHistory of calcHistories">
+                            <div class="card-header">
+                                <h5 class="card-title mb-0">{{ calcHistory.Input }}</h5>
+                            </div>
+                            <div class="card-body">
+                                <p class="card-text"><strong>Result:</strong> {{ calcHistory.Result }}</p>
+                               <p class="card-text"><strong>Date:</strong> {{ calcHistory.EvaluateAt | date:"dd-MMM-yyyy HH:mm:ss" }}</p>
+                                <p *ngIf="calcHistory.ErrorMessage" class="card-text text-danger"><strong>Error:</strong> {{ calcHistory.ErrorMessage }}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- No history message -->
+                <div *ngIf="calcHistories.length === 0" class="alert alert-info mt-4 text-center">
+                    <p>No history found.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
