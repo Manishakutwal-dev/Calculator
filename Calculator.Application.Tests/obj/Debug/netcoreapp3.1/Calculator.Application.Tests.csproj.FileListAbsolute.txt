@@ -1,6 +1,0 @@
-C:\Users\Manisha\Documents\Calculator-master\Calculator.Application.Tests\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
-C:\Users\Manisha\Documents\Calculator-master\Calculator.Application.Tests\obj\Debug\netcoreapp3.1\Calculator.Application.Tests.csproj.AssemblyReference.cache
-C:\Users\Manisha\Documents\Calculator-master\Calculator.Application.Tests\obj\Debug\netcoreapp3.1\Calculator.Application.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Manisha\Documents\Calculator-master\Calculator.Application.Tests\obj\Debug\netcoreapp3.1\Calculator.Application.Tests.AssemblyInfoInputs.cache
-C:\Users\Manisha\Documents\Calculator-master\Calculator.Application.Tests\obj\Debug\netcoreapp3.1\Calculator.Application.Tests.AssemblyInfo.cs
-C:\Users\Manisha\Documents\Calculator-master\Calculator.Application.Tests\obj\Debug\netcoreapp3.1\Calculator.Application.Tests.csproj.CoreCompileInputs.cache
