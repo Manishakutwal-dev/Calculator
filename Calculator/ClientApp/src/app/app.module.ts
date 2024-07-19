@@ -25,9 +25,10 @@ import { ReactiveFormsModule } from '@angular/forms';
         FormsModule,
         ReactiveFormsModule,
         RouterModule.forRoot([
-            { path: 'evaluate', component: EvaluateComponent, pathMatch: 'full' },
-            { path: 'login', component: LoginComponent },
-            { path: 'history', component: HistoryComponent },
+            { path: 'evaluate', component: EvaluateComponent,  },
+  { path: 'login', component: LoginComponent },
+  { path: 'history', component: HistoryComponent },
+  { path: '', component: EvaluateComponent, },
         ])
     ],
     providers: [],
